@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DES", "3DES.csproj", "{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_An_BMTT", "..\Do_An_BMTT\Do_An_BMTT.csproj", "{B2F6579D-73EE-4BB2-80F5-DBFBB1A4C3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F6579D-73EE-4BB2-80F5-DBFBB1A4C3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F6579D-73EE-4BB2-80F5-DBFBB1A4C3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F6579D-73EE-4BB2-80F5-DBFBB1A4C3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F6579D-73EE-4BB2-80F5-DBFBB1A4C3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63BF5D8-0913-4407-A6B4-2D1DAD098403}
+	EndGlobalSection
+EndGlobal

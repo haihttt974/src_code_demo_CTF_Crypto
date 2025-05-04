@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|d:\\bmtt\\src_code_demo_ctf_crypto\\3des\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|d:\\bmtt\\src_code_demo_ctf_crypto\\3des\\docanhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:docanhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\docanhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:docanhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\formthuattoan\\frm_3descipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:formthuattoan\\frm_3descipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\formthuattoan\\frm_3descipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:formthuattoan\\frm_3descipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\digitalsignature\\frm_rsadigitalsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E53D65-CBA3-4E03-91CA-9A58AEFBD078}|3DES.csproj|solutionrelative:digitalsignature\\frm_rsadigitalsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBContext.cs",
+              "ToolTip": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Models\\DBContext.cs",
+              "RelativeToolTip": "Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:17:10.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_3DESCipher.cs",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\FormThuatToan\\frm_3DESCipher.cs",
+              "RelativeDocumentMoniker": "FormThuatToan\\frm_3DESCipher.cs",
+              "ToolTip": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\FormThuatToan\\frm_3DESCipher.cs",
+              "RelativeToolTip": "FormThuatToan\\frm_3DESCipher.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAowKwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:48:00.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocAnhAI.cs",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\DocAnhAI.cs",
+              "RelativeDocumentMoniker": "DocAnhAI.cs",
+              "ToolTip": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\DocAnhAI.cs",
+              "RelativeToolTip": "DocAnhAI.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAcwBEBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:45:20.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocAnhAI.cs [Design]",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\DocAnhAI.cs",
+              "RelativeDocumentMoniker": "DocAnhAI.cs",
+              "ToolTip": "C:\\Users\\phamt\\source\\repos\\3DES\\DocAnhAI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:45:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_3DESCipher.cs [Design]",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\FormThuatToan\\frm_3DESCipher.cs",
+              "RelativeDocumentMoniker": "FormThuatToan\\frm_3DESCipher.cs",
+              "ToolTip": "C:\\Users\\phamt\\source\\repos\\3DES\\FormThuatToan\\frm_3DESCipher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:44:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:13:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:13:43.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_RSADigitalSignature.cs [Design]",
+              "DocumentMoniker": "D:\\BMTT\\src_code_demo_CTF_Crypto\\3DES\\DigitalSignature\\frm_RSADigitalSignature.cs",
+              "RelativeDocumentMoniker": "DigitalSignature\\frm_RSADigitalSignature.cs",
+              "ToolTip": "C:\\Users\\phamt\\source\\repos\\3DES\\DigitalSignature\\frm_RSADigitalSignature.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:13:30.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
